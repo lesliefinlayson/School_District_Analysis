@@ -7,3 +7,9 @@ Analysis of standardized tests data can provide insights to academic performance
 •	Average math scores
 
 •	Average reading scores
+
+•	Percentage passing math (score >= 70)
+
+•	Percentage passing reading (score >= 70)
+
+•	Percentage passing both math and reading (scores >= 70)
