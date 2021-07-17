@@ -45,3 +45,14 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 3.  _HOw replacing the 9th graders' math and reading score affected Thomas High School's performance relative to other schools:_
 
+•  Original Top Schools:
+
+![image](https://user-images.githubusercontent.com/84471904/126050456-d5813dd0-e674-481b-a46e-c1ba1522284f.png)
+
+•  Adjusted Top Schools:  
+
+![image](https://user-images.githubusercontent.com/84471904/126050516-f2445e6f-3cdc-4c78-91d9-030de38f8f28.png)
+
+
+
+
