@@ -18,7 +18,10 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 ## Results
 
-1._District Summary Changes_
+1.  _District Summary Changes_
+•	Original District Summary
+
+![image](https://user-images.githubusercontent.com/84471904/126048559-5dd3a506-5d9e-4568-931d-db8a65f253af.png)
 
 
 
