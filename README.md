@@ -18,7 +18,7 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 ## Results
 
-1.  _District Summary Changes_
+1.  _How the District Summary was Affected:_
 
 •	Original District Summary
 
@@ -31,7 +31,7 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 
 
-2.  _School Summary Changes_
+2.  _How the School Summary was Affected:_
 
 •  Original School Summary
 
@@ -42,4 +42,6 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 ![image](https://user-images.githubusercontent.com/84471904/126050260-90fd8fbe-861a-4fd8-9de6-061650a62461.png)
 
+
+3.  _HOw replacing the 9th graders' math and reading score affected Thomas High School's performance relative to other schools:_
 
