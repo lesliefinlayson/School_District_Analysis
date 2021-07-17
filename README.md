@@ -14,4 +14,12 @@ Analysis of standardized tests data can provide insights to academic performance
 
 •	Percentage passing both math and reading (scores >= 70)
 
-The previous analysis was compromised due to academic dishonesty in reporting the reading and math grades for Thomas HIgh School ninth graders.  THe purpose of this current project is to remove these compromise scores (by replacing the scores with NaNs) and repeat the analysis with the remaining data intact.  The resulting report will review any changes.
+The previous analysis was compromised due to academic dishonesty in reporting the reading and math grades for Thomas HIgh School ninth graders.  THe purpose of this current project is to remove these compromise scores (by replacing the scores with NaNs) and repeat the analysis on the remaining intact data.  The resulting report will review the resulting changes.
+
+## Results
+
+• District Summary Changes
+
+
+
+• District Summary Changes
