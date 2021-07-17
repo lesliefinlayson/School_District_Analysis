@@ -43,7 +43,7 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 ![image](https://user-images.githubusercontent.com/84471904/126050260-90fd8fbe-861a-4fd8-9de6-061650a62461.png)
 
 
-3.  _HOw replacing the 9th graders' math and reading score affected Thomas High School's performance relative to other schools:_
+3.  _How replacing the 9th graders' math and reading score affected Thomas High School's performance relative to other schools:_
 
 •  Original Top Schools:
 
@@ -53,6 +53,14 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 ![image](https://user-images.githubusercontent.com/84471904/126050516-f2445e6f-3cdc-4c78-91d9-030de38f8f28.png)
 
+4.  _How replacing the 9th graders' math and reading scores:
 
+•  Math and Reading Scores by Grade
+
+•  Scores by School Spending
+
+•  Scores by School Size
+
+•  Scores bu Scool Type
 
 
