@@ -38,5 +38,8 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 ![image](https://user-images.githubusercontent.com/84471904/126050232-921ac384-b950-4cc6-884b-4d3d139b3ef5.png)
 
 
-•	Adjusted District Summary
+•	Adjusted School Summary
+
+![image](https://user-images.githubusercontent.com/84471904/126050260-90fd8fbe-861a-4fd8-9de6-061650a62461.png)
+
 
