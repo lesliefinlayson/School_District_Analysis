@@ -22,7 +22,8 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 •	Original District Summary
 
-![image](https://user-images.githubusercontent.com/84471904/126048559-5dd3a506-5d9e-4568-931d-db8a65f253af.png)
+![image](https://user-images.githubusercontent.com/84471904/126049593-de43c468-ecec-45f2-bb1f-a1dbe195414c.png)
+
 
 •	Adjusted District Summary
 
