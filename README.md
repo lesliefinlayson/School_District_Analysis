@@ -27,7 +27,8 @@ The previous analysis was compromised due to academic dishonesty in reporting th
 
 •	Adjusted District Summary
 
-![image](https://user-images.githubusercontent.com/84471904/126048680-97400da6-cacb-45dd-9913-2e67eb9aa86e.png)
+![image](https://user-images.githubusercontent.com/84471904/126049634-05191d1c-aefe-4819-8067-c9ca5266cedc.png)
+
 
 
 2.  _School Summary Changes_
