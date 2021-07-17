@@ -13,3 +13,5 @@ Analysis of standardized tests data can provide insights to academic performance
 •	Percentage passing reading (score >= 70)
 
 •	Percentage passing both math and reading (scores >= 70)
+
+This previous analysis was compromised due to academic dishonesty in reporting the reading and math grades for Thomas HIgh School ninth graders.  THe purpose of this current project is to remove these compromise scores (by replacing the scores with NaNs) and repeat the analysis with the remaining data intact.  The resulting report will review any changes.
